@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<TableLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:stretchColumns="0">
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#000000"/>
+			<TextView android:text="Baris ke-1"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#440000" />
+			<TextView android:text="Baris ke-2"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#884400" />
+			<TextView android:text="Baris ke-3"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#aa8844" />
+			<TextView android:text="Baris ke-4"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffaa88" />
+			<TextView android:text="Baris ke-5"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffffaa" />
+			<TextView android:text="Baris ke-6"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffffff" />
+			<TextView android:text="Baris ke-7"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffffaa" />
+			<TextView android:text="Baris ke-8"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffffff" />
+			<TextView android:text="Baris ke-9"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="80px"
+				android:background="#ffffaa" />
+			<TextView android:text="Baris ke-10"
+				android:paddingLeft="4px"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+	</TableLayout>
+</ScrollView>
